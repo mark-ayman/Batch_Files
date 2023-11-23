@@ -19,4 +19,4 @@ To use these batch files, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
- git clone  https://github.com/mark-ayman/Batch_Files.git
+ git clone https://github.com/mark-ayman/Batch_Files.git
