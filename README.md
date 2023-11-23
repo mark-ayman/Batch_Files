@@ -10,7 +10,7 @@ This repository provides a collection of batch files to automate common tasks in
 
 - [Getting Started](#Batch_Files)
 - [Usage](#Automate_Working_with_files_and_folders)
-- [Available Batch Scripts](#1-Create_Driver)
+- [Available Batch Scripts](#Create_Driver)
 - [License](#v.1.1)
 
 ## Getting Started
